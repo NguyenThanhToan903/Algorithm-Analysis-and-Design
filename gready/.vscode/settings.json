@@ -34,8 +34,5 @@
     "**/.vscode/**"
   ],
   "C_Cpp_Runner.useAddressSanitizer": false,
-  "files.associations": {
-    "stdio.h": "c"
-  },
   "C_Cpp.errorSquiggles": "disabled"
 }
