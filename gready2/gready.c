@@ -25,7 +25,7 @@ Dovat* readfile(float *w, int *n){
 	return dsdv;
 }
 
-void indsdv(Dovat *dsdv, int n, float w){
+void indsdv(ovat *dsdv, int n, float w){
 	int i;
 	float tongTL = 0, tongGT = 0;
 	printf("\nPhuong an thu duoc tu ky thuat Tham An nhu sau: \n");
